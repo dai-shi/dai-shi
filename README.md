@@ -1,5 +1,5 @@
 <a target="_blank" href="https://discord.gg/MrQdmzd">
-<img align="middle" alt="logo" src="https://github.com/dai-shi/react-tracked/raw/master/website/static/img/react-tracked-logo-animated1.svg"> Join my Discord server 👋
+<img align="middle" alt="logo" src="https://github.com/dai-shi/react-tracked/raw/master/website/static/img/react-tracked-logo-animated1.svg"><div>Join my Discord server 👋</div>
 </a>
 
 <!--
