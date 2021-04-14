@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo](/dai-shi/react-tracked/raw/master/website/static/img/react-tracked-logo-animated1.svg)
+![logo](https://github.com/dai-shi/react-tracked/raw/master/website/static/img/react-tracked-logo-animated1.svg)
 
 <!--
 **dai-shi/dai-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
