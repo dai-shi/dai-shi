@@ -1,10 +1,5 @@
-<table align="left"><tr><td>
-  &nbsp;&nbsp;
-  <a target="_blank" href="https://discord.gg/MrQdmzd">
-    <img align="middle" alt="logo" height="150" src="https://github.com/dai-shi/react-tracked/raw/main/website/static/img/react-tracked-logo-animated1.svg" />
-    <div>Join my Discord server 👋</div>
-  </a>
-</td></tr></table>
+<p>
+  Join my Discord server 👉 <a target="_blank" href="https://discord.gg/MrQdmzd">React Fan</a>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-<img align="middle" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dai-shi&show_icons=true" />
+For more links, visit 👉 <a target="_blank" href="https://contact.axlight.com">My contact site</a>
